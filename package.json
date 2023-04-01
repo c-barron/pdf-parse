@@ -1,6 +1,6 @@
 {
-    "name": "pdf-parse",
-    "version": "1.1.1",
+    "name": "@c-barron/pdf-parse",
+    "version": "1.1.2",
     "description": "Pure javascript cross-platform module to extract text from PDFs.",
     "main": "index.js",
     "keywords": [
@@ -32,16 +32,16 @@
         "test": "node node_modules/mocha/bin/_mocha --recursive --slow 10000",
         "start": "node index.js"
     },
-    "homepage": "https://gitlab.com/autokent/pdf-parse",
+    "homepage": "https://github.com/c-barron/pdf-parse",
     "bugs": {
-        "url": "https://gitlab.com/autokent/pdf-parse/issues",
-        "email": "mehmet.kozan@live.com"
+        "url": "https://github.com/c-barron/pdf-parse/issues",
+        "email": "info@barron.health"
     },
     "repository": {
         "type": "git",
-        "url": "https://gitlab.com/autokent/pdf-parse.git"
+        "url": "https://github.com/c-barron/pdf-parse.git"
     },
-    "author": "Mehmet Kozan <mehmet.kozan@live.com>",
+    "author": "Christine Barron <christine@barron.health>",
     "license": "MIT",
     "engines": {
         "node": ">=6.8.1"
